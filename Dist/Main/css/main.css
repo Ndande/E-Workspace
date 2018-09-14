@@ -1,0 +1,25 @@
+.submit{
+    margin-top: 12%;
+    margin-bottom: 12%;
+    text-align: center;
+}
+.site-foo{
+	background-color: #28a745;
+    color: white;
+}
+.footer-copyright{
+	background-color: #212529;
+	color: #ccc;
+}
+.hr_ll {border: solid #28a745 1px; display: inline-block; margin-top: 0}
+.footer-container{
+	background-color: #333;
+	color: #ccc;
+
+}
+.fixed {
+	background-color: rgba(1,1,1,.6) !important;
+	position: fixed;
+	width: 100%;
+	z-index: 99999;
+}
